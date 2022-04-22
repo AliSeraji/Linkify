@@ -6,6 +6,8 @@
         <entry key="..\:/AndroidPrj/app/src/main/res/drawable/ic_splash_activity_dark.xml" value="0.1635" />
         <entry key="..\:/AndroidPrj/app/src/main/res/drawable/ic_splash_activity_light.xml" value="0.1635" />
         <entry key="..\:/AndroidPrj/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidPrj/app/src/main/res/layout/fragment_guest.xml" value="0.33" />
+        <entry key="..\:/AndroidPrj/app/src/main/res/layout/fragment_splash.xml" value="0.25" />
       </map>
     </option>
   </component>

@@ -22,4 +22,10 @@
         <item name="android:fontFamily">@font/arlrdbd</item>
         <item name="android:textSize">50sp</item>
     </style>
+    <style name="guest_action_bar_shape">
+        <item name="upperShapeColor">@color/upper_shape_dark</item>
+        <item name="middleShapeColor">@color/middle_shape_dark</item>
+        <item name="bottomShapeColor">@color/bottom_shape_dark</item>
+        <item name="android:background">#DEDEDE</item>
+    </style>
 </resources>
